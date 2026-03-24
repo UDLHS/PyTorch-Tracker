@@ -208,3 +208,5 @@ __marimo__/
 
 
 .ipynb_checkpoints/
+__pycache__/
+.idea/
